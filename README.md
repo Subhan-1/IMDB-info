@@ -1,4 +1,5 @@
-src="https://telegra.ph/file/d0a829e82b13c9d91c257.jpg"></a></p>
+<img src="https://telegra.ph/file/d0a829e82b13c9d91c257.jpg"></a></p>
+<p align="center">
 
 ## IMDb-Bot
 Simple Telegram Bot To Get Info About Movies Using IMDb.
