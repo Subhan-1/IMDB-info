@@ -17,8 +17,7 @@ Bot = Client(
 
 
 @Bot.on_message(filters.command('start') & filters.private)
-async def start(client, message):
-    await message.reply_sticker(STICKER)
+async def start(client, message):    
     await message.reply_text(START_MSG.format(message.from_user.mention))
                
 @Bot.on_message(filters.text)
