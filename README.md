@@ -1,4 +1,4 @@
-# OMDb-Bot
+# IMDb-Bot
 Simple Telegram Bot To Get Info About Movies Using OMDb.
 
 ## Deploy on Heroku
