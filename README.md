@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/59cc70faf904932fee042.jpg"></a></p>
+<img src="https://telegra.ph/file/4899938a9fa3869b64d94.jpg"></a></p>
 <p align="center">
 
 ## IMDb-Bot
