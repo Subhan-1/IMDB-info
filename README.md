@@ -1,5 +1,5 @@
-# IMDb-Bot
-Simple Telegram Bot To Get Info About Movies Using OMDb.
+## IMDb-Bot
+Simple Telegram Bot To Get Info About Movies Using IMDb.
 
 ## Deploy on Heroku
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
@@ -7,7 +7,7 @@ Simple Telegram Bot To Get Info About Movies Using OMDb.
 ## Deploy in your VPS
 
 ```sh
-git clone https://github.com/Arun-TG/OMDb-Bot
+git clone https://github.com/Subhan-1/IMDB-info
 cd OMDb-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -37,11 +37,3 @@ API_KEY
 </details>
 
 
-## CONTRIBUTERS
-* [Arun](https://t.me/Arun_TG)
-* [Roshan Gupta](https://github.com/rookie2410)
-* [TheAntiSnipe  (Mihir Kulkarni)](https://github.com/TheAntiSnipe)
-* [00Starlord00  (Pranav Gharat)](https://github.com/00Starlord00)
-* [ArionMiles  (Kanishk Singh)](https://github.com/ArionMiles)
-* [Funoctics  (Amey Khale)](https://github.com/funoctis)
-	
