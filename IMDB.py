@@ -28,7 +28,7 @@ def get_movie_info(query):
 
 🗒 𝖯𝗅𝗈𝗍 : <code>{resp['Plot']}</code>
 
-<b>powered by: @Subhan011</b>"""
+<b>powered by: @Subhan011 ✅</b>"""
 
     except Exception as error:
         print(error)
